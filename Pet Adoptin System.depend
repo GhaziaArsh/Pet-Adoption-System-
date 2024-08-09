@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1723198887 source:c:\users\pmls\desktop\pet adoptin system\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
